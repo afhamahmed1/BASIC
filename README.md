@@ -1,5 +1,9 @@
 # BASIC Compiler
 
+## Completed Tasks
+
+1. Added a basic lexer.
+
 ## TODO List:
 
 1. Implement lexical analysis phase to break down the source code into tokens.
@@ -11,7 +15,7 @@
 7. Implement a symbol table to store and manage variable and function information.
 8. Develop error handling mechanisms to provide meaningful error messages to the user.
 9. Implement support for various data types, including integers, floating-point numbers, strings, arrays, and user-defined types.
-10.Develop a standard library for common BASIC functions and routines.
+10. Develop a standard library for common BASIC functions and routines.
 
 ## Feature List:
 
@@ -24,5 +28,6 @@
 7. Error handling mechanisms, including runtime error detection and reporting.
 8. Support for user-defined types and structures.
 9. Integrated debugging features, such as breakpoints and step-by-step execution.
-10.Compatibility with the original BASIC language syntax and keywords.
-11.Optimization techniques to improve the performance of generated code.
+10. Compatibility with the original BASIC language syntax and keywords.
+11. Optimization techniques to improve the performance of generated code.
+
