@@ -1,5 +1,9 @@
 # BASIC Compiler
 
+## Motivation For This Project
+
+Enhance my understanding of Compliers.
+
 ## Completed Tasks
 
 1. Added a basic lexer.
